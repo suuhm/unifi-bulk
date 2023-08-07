@@ -17,6 +17,7 @@ Easy to use shell script for mass editing your UniFi devices
 ```
 
 Originally, this script was only planned as EDNS helper-script (here is a link to the blog: https://the-suuhmmary.coldwareveryday.com/how-to-relay-client-ips-behind-upstream-dns-servers-with-edns/). 
+
 But now it became a relatively useful tool to upgrade and modify as many unifi devices as possible at the same time.
 Without the unifi control suite mind you and completely natively tunneled over ssh
 
