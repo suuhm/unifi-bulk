@@ -1,0 +1,13 @@
+#
+# HOSTNAME : IP LIST:
+# Don't use ':' in your name 
+# cause of delimititers
+#
+UNIFI_AP_1:10.1.2.3.4
+UNIFI_AP_1:10.1.2.3.5
+UNIFI_AP_1:10.1.2.3.6
+#UNIFI_AP_1:10.1.2.3.7
+#UNIFI_AP_1:10.1.2.3.8
+UNIFI_AP_1:10.1.2.3.33
+UNIFI_AP_1:10.1.2.3.26
+UNIFI_AP_1:10.1.2.3.17
